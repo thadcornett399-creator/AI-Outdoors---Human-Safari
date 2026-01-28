@@ -1,0 +1,8 @@
+{
+  "name": "AI Outdoors: Human Safari",
+  "description": "A satirical nature documentary experience where an AI observes and narrates the peculiar behaviors of unsuspecting humans in their natural habitats.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
